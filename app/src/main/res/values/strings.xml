@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MapsIncubate</string>
+    <string name="title_activity_main">Main</string>
+    <string name="collection_users">Users</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_contact">ContactActivity</string>
+</resources>
